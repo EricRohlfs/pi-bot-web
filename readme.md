@@ -1,4 +1,4 @@
-Allow a person to control a robot powered by a raspberry pi via a web page.
+Allow a student to control raspberry pi powered robot via a web page.
 
 ![Mobile Screenshot](https://raw.githubusercontent.com/EricRohlfs/pi-bot-web/master/src/twowheel/twowheelscreenshot.png "Mobile Screenshot")
 
